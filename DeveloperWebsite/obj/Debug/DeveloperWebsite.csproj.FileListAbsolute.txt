@@ -1,0 +1,4 @@
+C:\repo\Website\DeveloperWebsite\bin\DeveloperWebsite.dll
+C:\repo\Website\DeveloperWebsite\bin\DeveloperWebsite.pdb
+C:\repo\Website\DeveloperWebsite\obj\Debug\DeveloperWebsite.dll
+C:\repo\Website\DeveloperWebsite\obj\Debug\DeveloperWebsite.pdb
