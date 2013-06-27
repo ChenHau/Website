@@ -8,6 +8,11 @@
         About
     </h2>
     <p>
+<<<<<<< HEAD
         Put content here.
+=======
+        Put content here. 1
+		Content 123
+>>>>>>> f2550b3... Update About.aspx
     </p>
 </asp:Content>
