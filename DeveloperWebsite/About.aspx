@@ -8,6 +8,6 @@
         About
     </h2>
     <p>
-        Put content here.
+        Story #1
     </p>
 </asp:Content>
