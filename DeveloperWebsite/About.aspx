@@ -8,7 +8,6 @@
         About
     </h2>
     <p>
-        Put content here. 1
-		Content 123
+        Story #1
     </p>
 </asp:Content>
